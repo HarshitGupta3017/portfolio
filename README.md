@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# Harshit Gupta
 
-First, run the development server:
+**Security · Development · Building things that matter**
+
+[![Live](https://img.shields.io/badge/Live%20Portfolio-hgupta--dev.vercel.app-00ff41?style=flat-square&labelColor=0a0a0a)](https://hgupta-dev.vercel.app)
+&nbsp;
+[![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+&nbsp;
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a0a?style=flat-square&logo=framer&logoColor=white)](https://framer.com/motion)
+
+</div>
+
+---
+
+Personal portfolio reflecting my work as a **Security Delivery Associate at Accenture** — SOC operations, threat detection, automation, and security tooling. Also a developer who ships real projects.
+
+Built from scratch. No templates.
+
+---
+
+**Stack** — Next.js · TypeScript · Tailwind CSS · Framer Motion
+
+**Live** — [hgupta-dev.vercel.app](https://hgupta-dev.vercel.app)
+
+**Resume** — [View PDF](https://hgupta-dev.vercel.app/Resume.pdf)
+
+---
+
+## Run locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/HarshitGupta3017/hgupta-dev.git
+cd hgupta-dev
+npm install && npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div align="center">
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[Email](mailto:harshitgupta3017@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/harshit-gupta-b87a3b1ba/) &nbsp;·&nbsp; [TryHackMe](https://tryhackme.com/p/harshitgupta3017)
 
-## Learn More
+<sub>© 2026 Harshit Gupta</sub>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+</div>
